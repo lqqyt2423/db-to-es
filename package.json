@@ -1,0 +1,28 @@
+{
+  "name": "@liqiqiang/db-to-es",
+  "version": "1.0.0",
+  "description": "Sync Mongo Data to ES",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "liqiqiang",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lqqyt2423/db-to-es.git"
+  },
+  "keywords": [
+    "mongo",
+    "elasticsearch"
+  ],
+  "bugs": {
+    "url": "https://github.com/lqqyt2423/db-to-es/issues"
+  },
+  "homepage": "https://github.com/lqqyt2423/db-to-es#readme"
+}
